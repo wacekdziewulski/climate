@@ -1,0 +1,12 @@
+{
+    "ls": [
+        {
+            "input": [ "/home/user" ],
+            "output": "list.py                 file.boot"
+        },
+        {
+            "input": [ "/var/log" ],
+            "output": "syslog\nlastlog\nsecure.log"
+        }
+    ]
+}
